@@ -1,5 +1,5 @@
-#this is an html practice for class.
+# This is a css practice for class.
 
-By Paul Iskra, 9/10
+By Paul Iskra, 9/19
 
-Due September 15th.
+Due September 22nd.
