@@ -1,5 +1,5 @@
-#this is an html class assignment for J326C.
+# This is an html/css class assignment for J326C.
 
-By Paul Iskra, 9/10
+By Paul Iskra
 
-Due September 15th.
+Due when it's due. 
